@@ -58,7 +58,7 @@ marmaraBolgesi[4] = canakkale```
 
 16-const ile deklare ettigimiz bir array yeniden tayin edilemese de icerisindeki elemanlara erisme ve degistirme noktasinda let ile aynidir. 
 
-#### KAYNAKCA
+#### KAYNAKLAR
 
 [Kaynak 1](https://www.w3schools.com/js/js_arrays.asp)
 [Kaynak 2](https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/exercises/arrays)
